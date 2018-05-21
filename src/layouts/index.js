@@ -31,8 +31,8 @@ const TemplateWrapper = ({ children }) =>
         { name: 'description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
         { name: 'keywords', content: 'Digital Product Design, Ahmer Malik, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },
         { name: 'og:type', content: 'profile' },
-        { name: 'og:title', content: 'Ahmer Malik - Freelancer Product Designer' },
-        { name: 'og:description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
+        { name: 'og:title', content: 'Ahmer Malik - Freelancer Web Developer' },
+        { name: 'og:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'og:url', content: 'https://ahmermalik.com/' },
         { name: 'og:image', content: 'https://jciclitira.com/images/preview.png' },
         { name: 'profile:first_name', content: 'Ahmer' },
@@ -41,7 +41,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:creator', content: '@' },
         { name: 'twitter:site', content: '@' },
         { name: 'twitter:title', content: 'Ahmer Malik - Freelance Web Developer' },
-        { name: 'twitter:description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
+        { name: 'twitter:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'twitter:image', content: 'https://jciclitira.com/images/preview.png' },
       ]}
     />
