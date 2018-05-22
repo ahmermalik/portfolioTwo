@@ -3,8 +3,8 @@ import React from 'react'
 class Social extends React.Component {
   render() {
     return (
-<div className='mt4'>
-        <a className="link dim gray dib h2 w2  mr3 pa2" target='blank' href="https://twitter.com/jjiiimmmy" title='Twitter'>
+<div className="mt4">
+        <a className="link dim gray dib h2 w2  mr3 pa2" target='blank' href="#" title='Twitter'>
           <svg data-icon="twitter" viewBox="0 0 32 32" style={{fill: 'currentcolor'}}>
             <title>twitter icon</title>
             <path d="M2 4 C6 8 10 12 15 11 A6 6 0 0 1 22 4 A6 6 0 0 1 26 6 A8 8 0 0 0 31 4 A8 8 0 0 1 28 8 A8 8 0 0 0 32 7 A8 8 0 0 1 28 11 A18 18 0 0 1 10 30 A18 18 0 0 1 0 27 A12 12 0 0 0 8 24 A8 8 0 0 1 3 20 A8 8 0 0 0 6 19.5 A8 8 0 0 1 0 12 A8 8 0 0 0 3 13 A8 8 0 0 1 2 4" />
@@ -28,13 +28,13 @@ class Social extends React.Component {
           </g>
         </svg>
         </a>
-        <a className="link dim gray dib br-100 h2 w2 mr3 pa2" href="https://www.uplabs.com/jimi" title="Uplabs">
-        <svg x="0px" y="0px" viewBox="0 0 32 32" fill="currentColor">
-        <path className='o-80' d="M15.8 9L0 20.25 15.8 31.5l15.8-11.25"/>
-        <path className='o-80' d="M15.8 5L0 16.25 15.8 27.5l15.8-11.25"/>
-        <path className='o-80' d="M16 1.1L.2 12.33 16 23.6l15.8-11.26"/>
-        </svg>
-  </a>
+        {/*<a className="link dim gray dib br-100 h2 w2 mr3 pa2" href="https://www.uplabs.com/jimi" title="Uplabs">*/}
+        {/*<svg x="0px" y="0px" viewBox="0 0 32 32" fill="currentColor">*/}
+        {/*<path className='o-80' d="M15.8 9L0 20.25 15.8 31.5l15.8-11.25"/>*/}
+        {/*<path className='o-80' d="M15.8 5L0 16.25 15.8 27.5l15.8-11.25"/>*/}
+        {/*<path className='o-80' d="M16 1.1L.2 12.33 16 23.6l15.8-11.26"/>*/}
+        {/*</svg>*/}
+  {/*</a>*/}
       </div>
     )
   }

@@ -10,7 +10,7 @@ class Landing extends React.Component {
           <div className="dib v-top w-50-ns w-100 mt4-ns pa0-ns pa3 mw6 tl-ns tc ">
           <h1 className='fw5 f1 mb2'>Hello!</h1>
           <h2 className='fw3' style={{lineHeight: '1.6'}}>
-          I'm a Web Developer from Texas! Previously worked with
+          I'm a Full Stack Web Developer living in Austin, TX. I previously worked for
           <a className='link hover-red' target='blank' href='http://www.emerson.com/en-us'> Emerson Electric</a>.
           {/*<a className='link hover-red' target='blank' href='https://thekickitapp.com/'> Kickit </a> &*/}
 
@@ -26,7 +26,8 @@ class Landing extends React.Component {
 <div className='mw8 db center mt5-ns mt3 mb5 overflow-auto ph0-ns ph2'>
 <article className='w-50-ns w-100 dib-ns db ph0-ns ph2'>
 <h3 className='fw4'>About</h3>
-<p className='measure secondary-text'> I am a former Financial Analyst who developed the passion for building creative applications through programming.
+<p className='measure secondary-text'> While working in a data-driven, creative environment, I learned my passion for building things which led me to coding.
+    Through the use of online resources such as
 </p>
 </article>
 <article className='w-40-ns w-100 dib v-top fr ph0-ns ph2'>
