@@ -22,7 +22,7 @@ class Experience extends React.Component {
     </div>
     {/*<div className='dib w-third-ns w-100'>*/}
     {/*<Role jobTitle='Business Developer' employer='Kickit' img='images/companies/Kickit.svg' link='#'/>*/}
-
+            {/*"remove these quotes, add arthur lawrence for experience if you want"*/}
     {/*</div>*/}
 
 

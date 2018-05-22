@@ -10,10 +10,9 @@ class Landing extends React.Component {
           <div className="dib v-top w-50-ns w-100 mt4-ns pa0-ns pa3 mw6 tl-ns tc ">
           <h1 className='fw5 f1 mb2'>Hello!</h1>
           <h2 className='fw3' style={{lineHeight: '1.6'}}>
-          I'm Ahmer, a Web Developer/coder/ [Add JS Script] working
-          in Texas. Previously with
-          <a className='link hover-red' target='blank' href='https://crowdscores.com/'> Emerson Electric</a>,
-          <a className='link hover-red' target='blank' href='https://www.yunojuno.com/'> Kickit </a> &
+          I'm a Web Developer from Texas! Previously worked with
+          <a className='link hover-red' target='blank' href='http://www.emerson.com/en-us'> Emerson Electric</a>.
+          {/*<a className='link hover-red' target='blank' href='https://thekickitapp.com/'> Kickit </a> &*/}
 
           </h2>
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
@@ -27,7 +26,7 @@ class Landing extends React.Component {
 <div className='mw8 db center mt5-ns mt3 mb5 overflow-auto ph0-ns ph2'>
 <article className='w-50-ns w-100 dib-ns db ph0-ns ph2'>
 <h3 className='fw4'>About</h3>
-<p className='measure secondary-text'>I create beautiful, usable interfaces through solid design-thinking and thoughtful research, specialising in mobile and web design with experience in front-end development.
+<p className='measure secondary-text'> I am a former Financial Analyst who developed the passion for building creative applications through programming.
 </p>
 </article>
 <article className='w-40-ns w-100 dib v-top fr ph0-ns ph2'>
@@ -35,8 +34,8 @@ class Landing extends React.Component {
 <ul className='ma0 f6 list pa0 secondary-text'>
 <li className="lh-copy pv1">BUILD TOOLS</li>
 <li className="lh-copy pv1">MOBILE/WEB APPS</li>
-<li className="lh-copy pv1">PROTOTYPING</li>
-<li className="lh-copy pv1">USER TESTING</li>
+<li className="lh-copy pv1">ANALYZE DATA</li>
+{/*<li className="lh-copy pv1">USER TESTING</li>*/}
 </ul>
 </article>
 </div>

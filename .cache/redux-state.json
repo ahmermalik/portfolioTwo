@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-19T19:03:12.557Z",
+      "buildTime": "2018-05-22T15:55:04.660Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "653c5dc6185f48f544621dbc5ea3e118",
+        "contentDigest": "f36bd8db54b093ff5e363a26eb36b2e9",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -507,25 +507,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /page-2/": {
-      "path": "/page-2/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "882bc0aa9eab5c7bf5736b2104fccff8",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /": {
       "path": "/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
@@ -542,6 +523,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "de36d30692b2ade92395220dd9cd879f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "path": "/page-2/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "882bc0aa9eab5c7bf5736b2104fccff8",
         "owner": "internal-data-bridge"
       }
     },

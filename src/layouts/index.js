@@ -42,7 +42,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:site', content: '@' },
         { name: 'twitter:title', content: 'Ahmer Malik - Freelance Web Developer' },
         { name: 'twitter:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
-        { name: 'twitter:image', content: 'https://jciclitira.com/images/preview.png' },
+        { name: 'twitter:image', content: '#' },
       ]}
     />
     <Header />
