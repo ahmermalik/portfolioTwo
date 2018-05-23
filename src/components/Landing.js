@@ -27,7 +27,7 @@ class Landing extends React.Component {
 <article className='w-50-ns w-100 dib-ns db ph0-ns ph2'>
 <h3 className='fw4'>About</h3>
 <p className='measure secondary-text'> While working in a data-driven, creative environment, I learned my passion for building things which led me to coding.
-    Through the use of online resources such as
+    Through the use of online resources such as Stack Overflow, GitHub, and Meet Up, I found myself attending Digital Craft's coding bootcamp and became a Web Developer.
 </p>
 </article>
 <article className='w-40-ns w-100 dib v-top fr ph0-ns ph2'>
@@ -36,7 +36,8 @@ class Landing extends React.Component {
 <li className="lh-copy pv1">BUILD TOOLS</li>
 <li className="lh-copy pv1">MOBILE/WEB APPS</li>
 <li className="lh-copy pv1">ANALYZE DATA</li>
-{/*<li className="lh-copy pv1">USER TESTING</li>*/}
+<li className="lh-copy pv1">IMPROVE PROCESSES</li>
+
 </ul>
 </article>
 </div>
