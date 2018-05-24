@@ -42,6 +42,13 @@
         "path": "/Quidco/"
     },
     {
+        "componentChunkName": "component---src-pages-shish-kabob-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "shish-kabob.json",
+        "path": "/ShishKabob/"
+    },
+    {
         "componentChunkName": "component---src-pages-suggestv-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -56,18 +63,18 @@
         "path": "/Thanks/"
     },
     {
-        "componentChunkName": "component---src-pages-yunojuno-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "yunojuno.json",
-        "path": "/Yunojuno/"
-    },
-    {
         "componentChunkName": "component---src-pages-weather-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "weather.json",
         "path": "/Weather/"
+    },
+    {
+        "componentChunkName": "component---src-pages-yunojuno-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "yunojuno.json",
+        "path": "/Yunojuno/"
     },
     {
         "componentChunkName": "component---src-pages-index-js",
@@ -89,12 +96,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-pages-emerson-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "emerson.json",
-        "path": "/Emerson/"
     }
 ]

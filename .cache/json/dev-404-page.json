@@ -30,6 +30,11 @@
                 },
                 {
                     "node": {
+                        "path": "/ShishKabob/"
+                    }
+                },
+                {
+                    "node": {
                         "path": "/Suggestv/"
                     }
                 },
@@ -40,12 +45,12 @@
                 },
                 {
                     "node": {
-                        "path": "/Yunojuno/"
+                        "path": "/Weather/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/Weather/"
+                        "path": "/Yunojuno/"
                     }
                 },
                 {
@@ -61,11 +66,6 @@
                 {
                     "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Emerson/"
                     }
                 }
             ]

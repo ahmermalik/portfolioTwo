@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-23T22:54:25.025Z",
+      "buildTime": "2018-05-24T00:23:43.618Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b1c09bb79bafc04ed86f2771fc76b138",
+        "contentDigest": "256df44483802b82524dea4a2924c777",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -431,6 +431,25 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /ShishKabob/": {
+      "path": "/ShishKabob/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ShishKabob.js",
+      "componentChunkName": "component---src-pages-shish-kabob-js",
+      "layout": "index",
+      "jsonName": "shish-kabob.json",
+      "internalComponentName": "ComponentShishKabob",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ShishKabob.js",
+      "id": "SitePage /ShishKabob/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "82dc9d60e530165ff0d6a05f0494b2bf",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /Suggestv/": {
       "path": "/Suggestv/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Suggestv.js",
@@ -469,25 +488,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Yunojuno/": {
-      "path": "/Yunojuno/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "componentChunkName": "component---src-pages-yunojuno-js",
-      "layout": "index",
-      "jsonName": "yunojuno.json",
-      "internalComponentName": "ComponentYunojuno",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "id": "SitePage /Yunojuno/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Weather/": {
       "path": "/Weather/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js",
@@ -504,6 +504,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "9a7c1eb57b80a9b74f3f099d39174548",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Yunojuno/": {
+      "path": "/Yunojuno/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
+      "componentChunkName": "component---src-pages-yunojuno-js",
+      "layout": "index",
+      "jsonName": "yunojuno.json",
+      "internalComponentName": "ComponentYunojuno",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
+      "id": "SitePage /Yunojuno/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
         "owner": "internal-data-bridge"
       }
     },
@@ -561,25 +580,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "c1cf76fa0c84361d5e94dc3a10743004",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Emerson/": {
-      "path": "/Emerson/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Emerson.js",
-      "componentChunkName": "component---src-pages-emerson-js",
-      "layout": "index",
-      "jsonName": "emerson.json",
-      "internalComponentName": "ComponentEmerson",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Emerson.js",
-      "id": "SitePage /Emerson/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "45246776925f11097de596b91b49a55a",
         "owner": "internal-data-bridge"
       }
     }

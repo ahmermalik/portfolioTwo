@@ -28,8 +28,8 @@ const TemplateWrapper = ({ children }) =>
         { rel: 'icon', sizes: '16x16', href: 'favicon/favicon-16x16.png'},
         ]}
       meta={[
-        { name: 'description', content: 'Digital Product Designer based in London. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web design' },
-        { name: 'keywords', content: 'Digital Product Design, Ahmer Malik, UI/UX, User Interface Design, User Experiences Design, London, Europe, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Interaction Design, Front-end Development, Digital Product Design, Jimmy, Jimi, Tech' },
+        { name: 'description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
+        { name: 'keywords', content: 'Full Stack Developer,Finance Software, Fintech, Blockchain Developer, Ethereum Developer, Stock, Trading,, Ahmer Malik, UI/UX, Back End Developer, Front End Design, User Experiences Design, Austin, Houston, Dallas, New York City, San Francisco, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Front-end Development, Ahmer, Hammer Time, Malik, Tech' },
         { name: 'og:type', content: 'profile' },
         { name: 'og:title', content: 'Ahmer Malik - Freelancer Web Developer' },
         { name: 'og:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
