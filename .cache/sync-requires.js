@@ -11,10 +11,11 @@ exports.components = {
   "component---src-pages-quidco-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js")),
   "component---src-pages-suggestv-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Suggestv.js")),
   "component---src-pages-thanks-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Thanks.js")),
-  "component---src-pages-weather-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js")),
   "component---src-pages-yunojuno-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js")),
+  "component---src-pages-weather-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js")),
-  "component---src-pages-page-2-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js"))
+  "component---src-pages-page-2-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js")),
+  "component---src-pages-emerson-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Emerson.js"))
 }
 
 exports.json = {
@@ -35,15 +36,17 @@ exports.json = {
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "thanks.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/thanks.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "weather.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/weather.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "yunojuno.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/yunojuno.json"),
+  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "weather.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/weather.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/index.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "page-2.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/page-2.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "404-html.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json")
+  "404-html.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json"),
+  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "emerson.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/emerson.json")
 }
 
 exports.layouts = {

@@ -56,18 +56,18 @@
         "path": "/Thanks/"
     },
     {
-        "componentChunkName": "component---src-pages-weather-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "weather.json",
-        "path": "/Weather/"
-    },
-    {
         "componentChunkName": "component---src-pages-yunojuno-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "yunojuno.json",
         "path": "/Yunojuno/"
+    },
+    {
+        "componentChunkName": "component---src-pages-weather-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "weather.json",
+        "path": "/Weather/"
     },
     {
         "componentChunkName": "component---src-pages-index-js",
@@ -89,5 +89,12 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-emerson-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "emerson.json",
+        "path": "/Emerson/"
     }
 ]

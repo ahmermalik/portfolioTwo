@@ -10,12 +10,10 @@ class Landing extends React.Component {
           <div className="dib v-top w-50-ns w-100 mt4-ns pa0-ns pa3 mw6 tl-ns tc ">
           <h1 className='fw5 f1 mb2'>Hello!</h1>
           <h2 className='fw3' style={{lineHeight: '1.6'}}>
-          I'm a Full Stack Web Developer living in Austin, TX. I previously worked for
+          I'm a Full Stack Web Developer living in Houston, TX. I previously worked for
           <a className='link hover-red' target='blank' href='http://www.emerson.com/en-us'> Emerson Electric</a>.
-          {/*<a className='link hover-red' target='blank' href='https://thekickitapp.com/'> Kickit </a> &*/}
-
           </h2>
-          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
+          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="mailto:ahmer.malik.m@gmail.com">Get in touch</a>
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
@@ -26,7 +24,7 @@ class Landing extends React.Component {
 <div className='mw8 db center mt5-ns mt3 mb5 overflow-auto ph0-ns ph2'>
 <article className='w-50-ns w-100 dib-ns db ph0-ns ph2'>
 <h3 className='fw4'>About</h3>
-<p className='measure secondary-text'> While working in a data-driven, creative environment, I learned my passion for building things which led me to coding.
+<p className='measure secondary-text'> While working in a data-driven, creative environment, I discovered my passion for building tools which led me to coding.
     Through the use of online resources such as Stack Overflow, GitHub, and Meet Up, I found myself attending Digital Craft's coding bootcamp and became a Web Developer.
 </p>
 </article>
