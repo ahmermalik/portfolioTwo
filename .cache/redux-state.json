@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-24T05:50:11.154Z",
+      "buildTime": "2018-05-26T08:15:08.194Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "35e79605ef169c1b964a9c5b29de0aaf",
+        "contentDigest": "20404147d22e2a78ebfde25c1968012a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -393,25 +393,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Numilli/": {
-      "path": "/Numilli/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
-      "componentChunkName": "component---src-pages-numilli-js",
-      "layout": "index",
-      "jsonName": "numilli.json",
-      "internalComponentName": "ComponentNumilli",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
-      "id": "SitePage /Numilli/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "84612bb01e4eeac0f2491494df24131a",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Quidco/": {
       "path": "/Quidco/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
@@ -428,6 +409,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "72da24593da7b6b201bafc07fd4420db",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Numilli/": {
+      "path": "/Numilli/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
+      "componentChunkName": "component---src-pages-numilli-js",
+      "layout": "index",
+      "jsonName": "numilli.json",
+      "internalComponentName": "ComponentNumilli",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
+      "id": "SitePage /Numilli/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "84612bb01e4eeac0f2491494df24131a",
         "owner": "internal-data-bridge"
       }
     },
@@ -507,25 +507,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /": {
-      "path": "/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "de36d30692b2ade92395220dd9cd879f",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Yunojuno/": {
       "path": "/Yunojuno/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
@@ -542,6 +523,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "de36d30692b2ade92395220dd9cd879f",
         "owner": "internal-data-bridge"
       }
     },
