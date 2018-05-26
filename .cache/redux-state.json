@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-24T00:23:43.618Z",
+      "buildTime": "2018-05-24T05:50:11.154Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "256df44483802b82524dea4a2924c777",
+        "contentDigest": "35e79605ef169c1b964a9c5b29de0aaf",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -507,25 +507,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Yunojuno/": {
-      "path": "/Yunojuno/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "componentChunkName": "component---src-pages-yunojuno-js",
-      "layout": "index",
-      "jsonName": "yunojuno.json",
-      "internalComponentName": "ComponentYunojuno",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "id": "SitePage /Yunojuno/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /": {
       "path": "/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
@@ -542,6 +523,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "de36d30692b2ade92395220dd9cd879f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Yunojuno/": {
+      "path": "/Yunojuno/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
+      "componentChunkName": "component---src-pages-yunojuno-js",
+      "layout": "index",
+      "jsonName": "yunojuno.json",
+      "internalComponentName": "ComponentYunojuno",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
+      "id": "SitePage /Yunojuno/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
         "owner": "internal-data-bridge"
       }
     },
