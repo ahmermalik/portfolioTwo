@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 13,
+            "totalCount": 17,
             "edges": [
                 {
                     "node": {
@@ -66,6 +66,26 @@
                 {
                     "node": {
                         "path": "/404.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/CryptoDecryptd/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/RestaurantReviewer/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/GasPrice/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/ChatRoom/"
                     }
                 }
             ]

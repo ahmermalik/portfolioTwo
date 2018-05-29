@@ -14,7 +14,11 @@ exports.components = {
   "component---src-pages-weather-js": require("gatsby-module-loader?name=component---src-pages-weather-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js"),
   "component---src-pages-yunojuno-js": require("gatsby-module-loader?name=component---src-pages-yunojuno-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js"),
-  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js")
+  "component---src-pages-page-2-js": require("gatsby-module-loader?name=component---src-pages-page-2-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js"),
+  "component---src-pages-crypto-decryptd-js": require("gatsby-module-loader?name=component---src-pages-crypto-decryptd-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CryptoDecryptd.js"),
+  "component---src-pages-restaurant-reviewer-js": require("gatsby-module-loader?name=component---src-pages-restaurant-reviewer-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/RestaurantReviewer.js"),
+  "component---src-pages-gas-price-js": require("gatsby-module-loader?name=component---src-pages-gas-price-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/GasPrice.js"),
+  "component---src-pages-chat-room-js": require("gatsby-module-loader?name=component---src-pages-chat-room-js!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ChatRoom.js")
 }
 
 exports.json = {
@@ -45,7 +49,15 @@ exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "page-2.json": require("gatsby-module-loader?name=path---page-2!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/page-2.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "crypto-decryptd.json": require("gatsby-module-loader?name=path---crypto-decryptd!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/crypto-decryptd.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "restaurant-reviewer.json": require("gatsby-module-loader?name=path---restaurant-reviewer!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/restaurant-reviewer.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "gas-price.json": require("gatsby-module-loader?name=path---gas-price!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/gas-price.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
+  "chat-room.json": require("gatsby-module-loader?name=path---chat-room!/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/chat-room.json")
 }
 
 exports.layouts = {
