@@ -28,18 +28,18 @@
         "path": "/Gradient/"
     },
     {
-        "componentChunkName": "component---src-pages-quidco-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "quidco.json",
-        "path": "/Quidco/"
-    },
-    {
         "componentChunkName": "component---src-pages-numilli-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "numilli.json",
         "path": "/Numilli/"
+    },
+    {
+        "componentChunkName": "component---src-pages-quidco-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "quidco.json",
+        "path": "/Quidco/"
     },
     {
         "componentChunkName": "component---src-pages-shish-kabob-js",

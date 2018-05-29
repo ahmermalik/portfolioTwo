@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-26T08:15:08.194Z",
+      "buildTime": "2018-05-29T22:39:59.432Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "20404147d22e2a78ebfde25c1968012a",
+        "contentDigest": "edc1fd80608f6ce2e7720a13103e3603",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -393,25 +393,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Quidco/": {
-      "path": "/Quidco/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
-      "componentChunkName": "component---src-pages-quidco-js",
-      "layout": "index",
-      "jsonName": "quidco.json",
-      "internalComponentName": "ComponentQuidco",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
-      "id": "SitePage /Quidco/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "72da24593da7b6b201bafc07fd4420db",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Numilli/": {
       "path": "/Numilli/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
@@ -428,6 +409,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "84612bb01e4eeac0f2491494df24131a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Quidco/": {
+      "path": "/Quidco/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
+      "componentChunkName": "component---src-pages-quidco-js",
+      "layout": "index",
+      "jsonName": "quidco.json",
+      "internalComponentName": "ComponentQuidco",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
+      "id": "SitePage /Quidco/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "72da24593da7b6b201bafc07fd4420db",
         "owner": "internal-data-bridge"
       }
     },

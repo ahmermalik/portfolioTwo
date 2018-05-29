@@ -13,7 +13,7 @@ class Landing extends React.Component {
           I'm a Full Stack Web Developer living in Houston, TX. I previously worked for
           <a className='link hover-red' target='blank' href='http://www.emerson.com/en-us'> Emerson Electric</a>.
           </h2>
-          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="mailto:ahmer.malik.m@gmail.com">Get in touch</a>
+          <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
