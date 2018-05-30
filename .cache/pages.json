@@ -63,13 +63,6 @@
         "path": "/Thanks/"
     },
     {
-        "componentChunkName": "component---src-pages-weather-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "weather.json",
-        "path": "/Weather/"
-    },
-    {
         "componentChunkName": "component---src-pages-yunojuno-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
@@ -96,33 +89,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "404-html.json",
         "path": "/404.html"
-    },
-    {
-        "componentChunkName": "component---src-pages-crypto-decryptd-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "crypto-decryptd.json",
-        "path": "/CryptoDecryptd/"
-    },
-    {
-        "componentChunkName": "component---src-pages-restaurant-reviewer-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "restaurant-reviewer.json",
-        "path": "/RestaurantReviewer/"
-    },
-    {
-        "componentChunkName": "component---src-pages-gas-price-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "gas-price.json",
-        "path": "/GasPrice/"
-    },
-    {
-        "componentChunkName": "component---src-pages-chat-room-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "chat-room.json",
-        "path": "/ChatRoom/"
     }
 ]

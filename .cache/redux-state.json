@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-29T22:39:59.432Z",
+      "buildTime": "2018-05-30T04:56:17.452Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "edc1fd80608f6ce2e7720a13103e3603",
+        "contentDigest": "452401bf87ebdbb56c2f0308b96488b4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -488,25 +488,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Weather/": {
-      "path": "/Weather/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js",
-      "componentChunkName": "component---src-pages-weather-js",
-      "layout": "index",
-      "jsonName": "weather.json",
-      "internalComponentName": "ComponentWeather",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js",
-      "id": "SitePage /Weather/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9a7c1eb57b80a9b74f3f099d39174548",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Yunojuno/": {
       "path": "/Yunojuno/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
@@ -580,82 +561,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "c1cf76fa0c84361d5e94dc3a10743004",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /CryptoDecryptd/": {
-      "path": "/CryptoDecryptd/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CryptoDecryptd.js",
-      "componentChunkName": "component---src-pages-crypto-decryptd-js",
-      "layout": "index",
-      "jsonName": "crypto-decryptd.json",
-      "internalComponentName": "ComponentCryptoDecryptd",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CryptoDecryptd.js",
-      "id": "SitePage /CryptoDecryptd/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8d900d69ec6d508aa0871b7f3c35b030",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /RestaurantReviewer/": {
-      "path": "/RestaurantReviewer/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/RestaurantReviewer.js",
-      "componentChunkName": "component---src-pages-restaurant-reviewer-js",
-      "layout": "index",
-      "jsonName": "restaurant-reviewer.json",
-      "internalComponentName": "ComponentRestaurantReviewer",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/RestaurantReviewer.js",
-      "id": "SitePage /RestaurantReviewer/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "41c7deb5f9d9b85e8891deb004656c51",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /GasPrice/": {
-      "path": "/GasPrice/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/GasPrice.js",
-      "componentChunkName": "component---src-pages-gas-price-js",
-      "layout": "index",
-      "jsonName": "gas-price.json",
-      "internalComponentName": "ComponentGasPrice",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/GasPrice.js",
-      "id": "SitePage /GasPrice/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "69ae05a285e6a758bb7f940f8e57da2f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /ChatRoom/": {
-      "path": "/ChatRoom/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ChatRoom.js",
-      "componentChunkName": "component---src-pages-chat-room-js",
-      "layout": "index",
-      "jsonName": "chat-room.json",
-      "internalComponentName": "ComponentChatRoom",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ChatRoom.js",
-      "id": "SitePage /ChatRoom/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f607225970ea7c146b9942492fcc9a5f",
         "owner": "internal-data-bridge"
       }
     }

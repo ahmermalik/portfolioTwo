@@ -12,14 +12,9 @@ exports.components = {
   "component---src-pages-shish-kabob-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ShishKabob.js")),
   "component---src-pages-suggestv-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Suggestv.js")),
   "component---src-pages-thanks-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Thanks.js")),
-  "component---src-pages-weather-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Weather.js")),
   "component---src-pages-yunojuno-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js")),
   "component---src-pages-index-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js")),
-  "component---src-pages-page-2-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js")),
-  "component---src-pages-crypto-decryptd-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CryptoDecryptd.js")),
-  "component---src-pages-restaurant-reviewer-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/RestaurantReviewer.js")),
-  "component---src-pages-gas-price-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/GasPrice.js")),
-  "component---src-pages-chat-room-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ChatRoom.js"))
+  "component---src-pages-page-2-js": preferDefault(require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js"))
 }
 
 exports.json = {
@@ -42,23 +37,13 @@ exports.json = {
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "thanks.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/thanks.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "weather.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/weather.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "yunojuno.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/yunojuno.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/index.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
   "page-2.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/page-2.json"),
   "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "404-html.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "crypto-decryptd.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/crypto-decryptd.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "restaurant-reviewer.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/restaurant-reviewer.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "gas-price.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/gas-price.json"),
-  "layout-index.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/layout-index.json"),
-  "chat-room.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/chat-room.json")
+  "404-html.json": require("/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/.cache/json/404-html.json")
 }
 
 exports.layouts = {

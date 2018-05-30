@@ -23,9 +23,9 @@ const TemplateWrapper = ({ children }) =>
     <Helmet
       title="Ahmer Malik - Full Stack Web Developer"
       link={[
-        { rel: 'apple-touch-icon', sizes: '180x180', href: 'favicon/apple-touch-icon.png'},
-        { rel: 'icon', sizes: '32x32', href: 'favicon/favicon-32x32.png'},
-        { rel: 'icon', sizes: '16x16', href: 'favicon/favicon-16x16.png'},
+        { rel: 'apple-touch-icon', sizes: '180x180', href: '/public/favicon/apple-touch-icon.png'},
+        { rel: 'icon', sizes: '32x32', href: 'public/favicon/favicon-32x32.png'},
+        { rel: 'icon', sizes: '16x16', href: 'public/favicon/favicon-16x16.png'},
         ]}
       meta={[
         { name: 'description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
@@ -34,13 +34,13 @@ const TemplateWrapper = ({ children }) =>
         { name: 'og:title', content: 'Ahmer Malik - Freelancer Web Developer' },
         { name: 'og:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'og:url', content: 'https://ahmermalik.com/' },
-        { name: 'og:image', content: 'https://jciclitira.com/images/preview.png' },
+        { name: 'og:image', content: 'https://ahmermalik.com/images/cryptotistics.png' },
         { name: 'profile:first_name', content: 'Ahmer' },
         { name: 'profile:last_name', content: 'Malik' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:creator', content: '@' },
         { name: 'twitter:site', content: '@' },
-        { name: 'twitter:title', content: 'Ahmer Malik - Freelance Web Developer' },
+        { name: 'twitter:title', content: 'Ahmer Malik - Full Stack Web Developer' },
         { name: 'twitter:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'twitter:image', content: '#' },
       ]}

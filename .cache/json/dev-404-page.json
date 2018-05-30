@@ -1,7 +1,7 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 17,
+            "totalCount": 12,
             "edges": [
                 {
                     "node": {
@@ -45,11 +45,6 @@
                 },
                 {
                     "node": {
-                        "path": "/Weather/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/Yunojuno/"
                     }
                 },
@@ -66,26 +61,6 @@
                 {
                     "node": {
                         "path": "/404.html"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/CryptoDecryptd/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/RestaurantReviewer/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/GasPrice/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/ChatRoom/"
                     }
                 }
             ]
