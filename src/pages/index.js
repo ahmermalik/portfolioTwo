@@ -12,7 +12,6 @@ const IndexPage = () =>
       <Landing/>
       <Work/>
       <Experience/>
-      <Playground/>
       <Contact/>
       <Footer/>
 

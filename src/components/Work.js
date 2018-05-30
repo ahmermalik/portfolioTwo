@@ -10,18 +10,18 @@ class Work extends React.Component {
     <section id='Portfolio'>
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
-        <WorkTile title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, HTML5, CSS3, Bootstrap 4, jQuery, ' summary='Cryptotistics utilizes multiple APIs in order to deliver real time stats of various cryptocurrencies.' img='images/preview/cryptotistics.png' link='Suggestv'/>
-        <WorkTile title='Crypto Decryptd' info='JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary=' A React web app for a restaurant in Katy, TX. Features full menu and utilizes Yelp api to display current reviews.' img='images/preview/sishkabob123.png' link='/CrowdScores'/>
+        <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, HTML5, CSS3, Bootstrap 4, jQuery, ' summary='Cryptotistics utilizes multiple APIs in order to deliver real time stats of various cryptocurrencies.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
+        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary=' A React web app for a restaurant in Katy, TX. Features full menu and utilizes Yelp api to display current reviews.' img='images/preview/sishkabob123.png' link='https://github.com/ahmermalik/podcast'/>
 
-        <WorkTileOut title='Weather App' info='Python, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary='Full Stack web app to review restaurants.' img='images/preview/sishkabob123.png' link='http://numilli.surge.sh/'/>
-        <WorkTile title='Chatroom App' info='JavaScript, Socket.IO, Express, Node.js, HTML5, CSS3, Handlebars.js, Bootstrap' summary='A socket io web app.' img='images/preview/sishkabob123.png' link='Quidco'/>
+        <WorkTileOut title='Weather App' info='Python, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary='Full Stack web app to review restaurants.' img='images/preview/sishkabob123.png' link='https://github.com/ahmermalik/weatherApp'/>
+        <WorkTileOut title='Chatroom App' info='JavaScript, Socket.IO, Express, Node.js, HTML5, CSS3, Handlebars.js, Bootstrap' summary='A socket io web app.' img='images/preview/sishkabob123.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
 
-        <WorkTile title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 4, jQuery' summary='A React web app for a restaurant in Katy, TX. Features full menu and utilizes Yelp api to display current reviews' img='images/preview/sishkabob123.png' link='ShishKabob'/>
-        <WorkTile title='Gas Price App' info='JavaScript, HTML5, CSS3, Bootstrap 4, jQuery' summary='Single page static web app to calculate cost savings variances and recommendation through payment channels.' img='images/preview/sishkabob123.png' link='YunoJuno'/>
+        <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 4, jQuery' summary='A React web app for a restaurant in Katy, TX. Features full menu and utilizes Yelp api to display current reviews' img='images/preview/sishkabob123.png' link='https://github.com/ahmermalik/sish-kabob-cafe'/>
+        <WorkTileOut title='Gas Price App' info='JavaScript, HTML5, CSS3, Bootstrap 4, jQuery' summary='Single page static web app to calculate cost savings variances and recommendation through payment channels.' img='images/preview/sishkabob123.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
 
             <h1 className='fw4'>Non-profit Projects</h1>
-            <p className='mw7'>As a developer and a leader, it is important to share resources with individuals & organizations that may utilize it to improve our world.</p>
+            <p className='mw7'>As a developer and a leader, it is important to share resources with individuals & organizations that'll utilize it to improve our world.</p>
 
 
         <WorkTileOut title='Houston Helps' info='Hack Houston 2017' summary='A fully responsive, mobile friendly app for case managers to connect donors to those in need.' img='images/preview/houstonhelps.svg' link='https://github.com/ahmermalik/HoustonHelps'/>
