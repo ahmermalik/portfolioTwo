@@ -11,7 +11,7 @@ const Shishkabob = () =>
         <CaseStudyAbout
         about='Shish Kabob Cafe new and improved website makes it easy to quick to find menu items blah blah'
         role='My role consisted of developing a desktop and mobile friendly design in order to improve customer accessibility and restaurant revenue.'
-        clients='Shish Kabob Cafe '
+        clients='Web Developer '
         job='Research restaurant websites, create a story about the owner, restaurant heritage and deliver an experience using the web app'
         />
 <div className='ph0-ns'>
