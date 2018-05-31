@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0e6482-a86c-466c-b92c-5c87c945df32" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/08116d53e229ec91f1ef7954dc8d3522d7aa574e.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b64774e339d1f860dd651890a22e10164432fad.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4854cf745cd1360f747cab768a97c31a709ae1b0.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/49656cd522ce00090ad93401d543c9e0a47bf53f.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5edc47eaaacab85ef3e07d505d4c1549fc542387.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/760f28a0cf8de3255211f90db5ed32ef9bf85c44.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/98e97ac025f79a6e64a40f759fa2b0eea341f272.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bd51fead883537eb9a240ef13beefba6401a55a8.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e1ace93c8fe2cb8c49086e771b771ea85cefa784.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e59c1ea8a48b94a56f3289ee469b56ad575be635.json.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f3a13aa6619899e331302cd6d820441655b57e00.json.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/favicon/site.webmanifest" afterPath="$PROJECT_DIR$/public/favicon/site.webmanifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/index.js" afterPath="$PROJECT_DIR$/src/layouts/index.js" />
     </list>
@@ -33,9 +21,11 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/layouts/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,10 +138,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="253" />
-    <option name="y" value="103" />
-    <option name="width" value="1866" />
-    <option name="height" value="797" />
+    <option name="x" value="9" />
+    <option name="y" value="240" />
+    <option name="width" value="1431" />
+    <option name="height" value="862" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -185,20 +175,7 @@
               <item name="1F Portfolio Sixth Iteration" type="b2602c69:ProjectViewProjectNode" />
               <item name="1F Portfolio Sixth Iteration" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="favicon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1F Portfolio Sixth Iteration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1F Portfolio Sixth Iteration" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1F Portfolio Sixth Iteration" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1F Portfolio Sixth Iteration" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="preview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1F Portfolio Sixth Iteration" type="b2602c69:ProjectViewProjectNode" />
@@ -268,12 +245,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34533000" />
+    <option name="totallyTimeSpent" value="35647000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="103" width="1866" height="797" extended-state="0" />
+    <frame x="9" y="240" width="1431" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15447155" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20212767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -281,7 +259,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33190882" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30378097" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -678,9 +656,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/layouts/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="51" column="50" lean-forward="true" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
