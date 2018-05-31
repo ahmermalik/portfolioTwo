@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'og:title', content: 'Ahmer Malik - Freelancer Web Developer' },
         { name: 'og:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specializing in Mobile & Web development' },
         { name: 'og:url', content: 'https://ahmermalik.com/' },
-        { name: 'og:image', content: '/static/ahmerheadshot.png' },
+        { name: 'og:image', content: 'public/images/ahmerheadshot.png' },
         { name: 'profile:first_name', content: 'Ahmer' },
         { name: 'profile:last_name', content: 'Malik' },
         { name: 'twitter:card', content: 'summary_large_image' },
