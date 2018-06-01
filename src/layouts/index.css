@@ -1,21 +1,16 @@
-img[alt=''],
-img:not([alt]) {
-  width: ;
-  height: auto;
-}
 
 
 .container {
   width: 100px;
-  height: 60px;
-  fill: green
+  height: auto;
+
 }
 
 /* resize images */
 .container img {
   width: 100%;
   height: auto;
-  fill: green
+
 }
 
 

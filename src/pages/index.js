@@ -11,9 +11,10 @@ import Skills from '../components/Skills.js'
 const IndexPage = () =>
     <div>
       <Landing/>
+      <Skills/>
       <Work/>
       <Experience/>
-      <Skills/>
+
       <Contact/>
       <Footer/>
 
