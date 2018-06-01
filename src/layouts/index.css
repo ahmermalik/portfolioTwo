@@ -1,7 +1,23 @@
 img[alt=''],
 img:not([alt]) {
-  border: 5px dashed pink;
+  width: ;
+  height: auto;
 }
+
+
+.container {
+  width: 100px;
+  height: 60px;
+  fill: green
+}
+
+/* resize images */
+.container img {
+  width: 100%;
+  height: auto;
+  fill: green
+}
+
 
 .TextInput p {
   margin: 0;

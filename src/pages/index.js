@@ -6,14 +6,17 @@ import Work from '../components/Work.js'
 import Footer from '../components/Footer.js'
 import Playground from '../components/Playground.js'
 import Contact from '../components/Contact.js'
+import Skills from '../components/Skills.js'
 
 const IndexPage = () =>
     <div>
       <Landing/>
       <Work/>
       <Experience/>
+      <Skills/>
       <Contact/>
       <Footer/>
+
     </div>
 
 export default IndexPage

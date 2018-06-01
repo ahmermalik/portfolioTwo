@@ -12,7 +12,7 @@ class Experience extends React.Component {
 <Title text='Experience'/>
     <div className='pt3 ph2'>
         <div className='dib w-half-ns w-100 v-top'>
-            <Role jobTitle='Web Developer' employer='Malik Consulting' img='images/companies/yunoJuno-icon.svg' link='#'/>
+            <Role jobTitle='Web Developer' employer='Malik Consulting' img='images/companies/yunoJuno-icon.svg' link='http://www.emerson.com/en-us'/>
         </div>
 
         <div className='dib w-half-ns w-100'>
