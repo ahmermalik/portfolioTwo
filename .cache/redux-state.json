@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-31T22:06:35.052Z",
+      "buildTime": "2018-06-06T23:57:23.003Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d35e8c3ea05cf4411ee455c5df719470",
+        "contentDigest": "b1c63555fa9a8ad2a6bd16d234d8f844",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -355,25 +355,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Gradient/": {
-      "path": "/Gradient/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Gradient.js",
-      "componentChunkName": "component---src-pages-gradient-js",
-      "layout": "index",
-      "jsonName": "gradient.json",
-      "internalComponentName": "ComponentGradient",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Gradient.js",
-      "id": "SitePage /Gradient/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "3df27763b1629ba38c72e1a222936b4b",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /CrowdScores/": {
       "path": "/CrowdScores/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
@@ -390,6 +371,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "9a3a911f682a60bfe446f83fe65653a1",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Gradient/": {
+      "path": "/Gradient/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Gradient.js",
+      "componentChunkName": "component---src-pages-gradient-js",
+      "layout": "index",
+      "jsonName": "gradient.json",
+      "internalComponentName": "ComponentGradient",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Gradient.js",
+      "id": "SitePage /Gradient/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3df27763b1629ba38c72e1a222936b4b",
         "owner": "internal-data-bridge"
       }
     },
@@ -507,25 +507,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /page-2/": {
-      "path": "/page-2/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "882bc0aa9eab5c7bf5736b2104fccff8",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /": {
       "path": "/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
@@ -542,6 +523,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "de36d30692b2ade92395220dd9cd879f",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "path": "/page-2/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "882bc0aa9eab5c7bf5736b2104fccff8",
         "owner": "internal-data-bridge"
       }
     },
