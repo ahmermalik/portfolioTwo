@@ -326,12 +326,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-06T23:57:23.003Z",
+      "buildTime": "2018-06-08T00:55:30.014Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b1c63555fa9a8ad2a6bd16d234d8f844",
+        "contentDigest": "d99a578687e9b8942ac5a1a1c6dfd24c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
