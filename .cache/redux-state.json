@@ -210,7 +210,7 @@
     "Plugin gatsby-plugin-react-helmet": {
       "resolve": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/node_modules/gatsby-plugin-react-helmet",
       "name": "gatsby-plugin-react-helmet",
-      "version": "1.0.3",
+      "version": "1.0.8",
       "pluginOptions": {
         "plugins": []
       },
@@ -218,7 +218,7 @@
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Stub description for gatsby-plugin-react-helmet",
-        "version": "1.0.3",
+        "version": "1.0.8",
         "main": "index.js",
         "keywords": [
           "gatsby"
@@ -230,7 +230,7 @@
         "dependencies": [
           {
             "name": "babel-runtime",
-            "version": "6.26.0"
+            "version": "^6.26.0"
           },
           {
             "name": "react-helmet",
@@ -240,7 +240,11 @@
         "devDependencies": [
           {
             "name": "babel-cli",
-            "version": "^6.24.1"
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
           }
         ],
         "peerDependencies": [],
@@ -251,7 +255,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8dc5e306ac115e8cb1080d65704b2983",
+        "contentDigest": "9006519f3a2f987918cf0cf13d333fbe",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -288,11 +292,15 @@
           },
           {
             "name": "gatsby-plugin-react-helmet",
-            "version": "^1.0.3"
+            "version": "^1.0.8"
           },
           {
             "name": "react-forecast",
             "version": "0.0.7"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
           },
           {
             "name": "underscore",
@@ -326,12 +334,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-08T00:55:30.014Z",
+      "buildTime": "2018-06-08T02:02:42.170Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d99a578687e9b8942ac5a1a1c6dfd24c",
+        "contentDigest": "39f05fa0ce3ee90a18d6ebcd9cedc5e2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -567,7 +575,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "d55206a7adfc718ebdeac6c0e575d861"
+    "PLUGINS_HASH": "51b2202b6abf8818523d4c8453402529"
   },
   "componentDataDependencies": {
     "nodes": {},
