@@ -17,7 +17,7 @@ class Landing extends React.Component {
           <Social/>
         </div>
         <div className='w-50 dib-ns dn'>
-        <img className='w-70 ml5' alt='Mobile-illustration' src='images/ahmerheadshot.png'/>
+        <img className='w-60 ml5' alt='Mobile-illustration' src='images/ahmerheadshotcrop.png'/>
    </div>
       </div>
 </section>
