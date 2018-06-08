@@ -10,13 +10,13 @@ class Work extends React.Component {
     <section id='Portfolio'>
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
-        <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, HTML5, CSS3, Bootstrap 4, jQuery, ' summary='Cryptotistics utilizes multiple APIs in order to deliver real time stats of various cryptocurrencies.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
-        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary=' ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/podcast'/>
+        <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, HTML5, CSS3, Bootstrap 4, jQuery, ' summary='Cryptocurrency portfolio web app. Utilizing a complex database, allows multiple users to create realtime portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
+        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, HTML5, CSS3, Handlebars.js, Bootstrap 4' summary='A mock web app for cryptocurrency podcasts and industry updates. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/podcast'/>
 
         <WorkTileOut title='Weather App' info='Python, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary='Full Stack web app to review restaurants.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/weatherApp'/>
         <WorkTileOut title='Chatroom App' info='JavaScript, Socket.IO, Express, Node.js, HTML5, CSS3, Handlebars.js, Bootstrap' summary='A socket io web app.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
-        <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 3, jQuery' summary='Web app utilizing HTML5, CSS3, Bootstrap 3, jQuery' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
+        <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 3, jQuery' summary='Web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
         <WorkTileOut title='Gas Price App' info='Basic JavaScript, HTML5, CSS3,jQuery' summary='Single page static web app to calculate cost savings variances and recommendation through payment channels.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
 
             <h1 className='fw4'>Non-profit Projects</h1>
