@@ -334,12 +334,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-06-11T05:43:06.056Z",
+      "buildTime": "2018-06-11T05:49:13.154Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "2e3f803e12b3f83d4334f9048e3f207c",
+        "contentDigest": "e93cedfb32c19996f48e35b034c07206",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -363,25 +363,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /CrowdScores/": {
-      "path": "/CrowdScores/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
-      "componentChunkName": "component---src-pages-crowd-scores-js",
-      "layout": "index",
-      "jsonName": "crowd-scores.json",
-      "internalComponentName": "ComponentCrowdScores",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
-      "id": "SitePage /CrowdScores/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9a3a911f682a60bfe446f83fe65653a1",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /Gradient/": {
       "path": "/Gradient/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Gradient.js",
@@ -398,6 +379,25 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "3df27763b1629ba38c72e1a222936b4b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /CrowdScores/": {
+      "path": "/CrowdScores/",
+      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
+      "componentChunkName": "component---src-pages-crowd-scores-js",
+      "layout": "index",
+      "jsonName": "crowd-scores.json",
+      "internalComponentName": "ComponentCrowdScores",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
+      "id": "SitePage /CrowdScores/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "9a3a911f682a60bfe446f83fe65653a1",
         "owner": "internal-data-bridge"
       }
     },
