@@ -55,11 +55,11 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'twitter:image', content: '#' },
       ]}
-        script={[
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120548769-1"></script>,
-      <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)}gtag('js', new Date());gtag('config', 'UA-120548769-1')</script>,
-
-      ]}
+      //   script={[
+      // <script async src="https://www.googletagmanager.com/gtag/js?id=UA-120548769-1"/>,
+      // <script window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)}gtag('js', new Date());gtag('config', 'UA-120548769-1')/>,
+      //
+      // ]}
 
     />
     <Header />

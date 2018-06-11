@@ -21,15 +21,13 @@ class Skills extends React.Component {
                         <img className='container ph3 grow' src={"images/companies/css3.svg"} />
                         <img className='container ph3 grow' src={"images/companies/js.svg"} />
                         <img className='container ph3 grow' src={"images/companies/bootstrap.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/jquery.svg"} />
                         </div>
                     <h2 className='fw4 mt1 f3 mb2'>Back End</h2>
                         <div className='w-100 pv2 '>
-                            <img className='container ph3 grow' src={"images/companies/js.svg"} />
+                            <img className='container ph3 grow' src={"images/companies/nodejs.svg"} />
+                            <img className='container ph3 grow' src={"images/companies/Express.svg"} />
                             <img className='container ph3 grow' src={"images/companies/python.svg"} />
                             <img className='container ph3 grow' src={"images/companies/csharp.svg"} />
-                            <img className='container ph3 grow' src={"images/companies/Express.svg"} />
-                            <img className='container ph3 grow' src={"images/companies/nodejs.svg"} />
                             <img className='container ph3 grow' src={"images/companies/postgresql.svg"} />
                         </div>
 
@@ -37,7 +35,6 @@ class Skills extends React.Component {
                     <div className='w-100 pv2'>
                         <img className='container ph3 grow' src={"images/companies/webstorm.svg"} />
                         <img className='container ph3 grow' src={"images/companies/pycharm.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/Gatsby.svg"} />
                         <img className='container ph3 grow' src={"images/companies/slack.svg"} />
                         <img className='container ph3 grow' src={"images/companies/aws.svg"} />
                         <img className='container ph3 grow' src={"images/companies/heroku.svg"} />
