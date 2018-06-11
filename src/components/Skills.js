@@ -37,7 +37,7 @@ class Skills extends React.Component {
                         <img className='container ph3 grow' src={"images/companies/pycharm.svg"} />
                         <img className='container ph3 grow' src={"images/companies/slack.svg"} />
                         <img className='container ph3 grow' src={"images/companies/aws.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/heroku.svg"} />
+                        <img className='container ph3 grow' src={"images/companies/googleanalytics.svg"} />
                     </div>
 
 
