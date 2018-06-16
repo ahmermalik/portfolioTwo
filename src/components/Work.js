@@ -16,7 +16,7 @@ class Work extends React.Component {
         <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 3, jQuery' summary='Web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
         <WorkTileOut title='Chatroom App' info='JavaScript, Socket.IO, Express, Node.js, HTML5, CSS3, Handlebars.js, Bootstrap' summary='A socket io web app.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
-        <WorkTileOut title='Weather App' info='Python, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary='Full Stack web app to review restaurants.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/weatherApp'/>
+        <WorkTileOut title='Weather App' info='Python, JavaScript, Express, Node.js, PostgreSQL, HTML5, CSS3, Handlebars.js, Bootstrap' summary='Full Stack web app to review restaurants.' img='/images/preview/weathapp-min.png' link='https://github.com/ahmermalik/weatherApp'/>
         <WorkTileOut title='Gas Price App' info='Basic JavaScript, HTML5, CSS3,jQuery' summary='Single page static web app to calculate cost savings variances and recommendation through payment channels.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
 
             <h1 className='fw4'>Non-profit Projects</h1>
