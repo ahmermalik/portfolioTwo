@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd0e6482-a86c-466c-b92c-5c87c945df32" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0017bce45267f0650101a3164b2a379f4b3c544a.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/07062998b43dd7ecfa728c0161a13ce5fc3e29ed.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0e2ccb3a9c844353fd10908e8a86bc6e144fbd2a.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1e6c6bfefe34d8445b0fbf1651fa55d32452e826.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2523d1d08a0f5c397aaeb5bdb4b96ac0c39459d0.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/30d873d2bbfb907e014e9b9602a594988c766fa5.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3e62776bfccc886d85459dd59f7c915cdf872912.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/462f0afcbfe2b7ebb0d1d83f9402d9cdd403c7b7.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/5f20a85e1e6a61fe2be015e0abbe9fbee41a459d.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/63390989e17942d1a474ea4390d9fa27930f5771.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7ec62afee108029becfa3c739f4c2e4b23a32515.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/filters.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/info.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/marketing/web9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/match.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/more-options.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/timeline.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/visual-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/crowdscores/visual-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/numilli/numilli-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/quidco/quidco-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-15.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-16.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/weather/weather-icon-9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/yunojuno/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.js" afterDir="false" />
-    </list>
+    <list default="true" id="bd0e6482-a86c-466c-b92c-5c87c945df32" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -85,8 +18,8 @@
       <file leaf-file-name="Work.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -382,12 +315,12 @@
       <workItem from="1528755974320" duration="958000" />
       <workItem from="1528836260971" duration="319000" />
       <workItem from="1529124829124" duration="972000" />
-      <workItem from="1529674379399" duration="1512000" />
+      <workItem from="1529674379399" duration="1571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67831000" />
+    <option name="totallyTimeSpent" value="67890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="68" width="1440" height="816" extended-state="0" />
@@ -647,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
