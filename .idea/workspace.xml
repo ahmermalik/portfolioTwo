@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0e6482-a86c-466c-b92c-5c87c945df32" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.js" afterDir="false" />
     </list>
@@ -22,8 +21,8 @@
       <file leaf-file-name="Work.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="285">
+              <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -155,7 +154,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="68" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
@@ -314,15 +313,15 @@
       <workItem from="1529124829124" duration="972000" />
       <workItem from="1529674379399" duration="1571000" />
       <workItem from="1529676254043" duration="85000" />
-      <workItem from="1529856518810" duration="250000" />
+      <workItem from="1529856518810" duration="1010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68225000" />
+    <option name="totallyTimeSpent" value="68985000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="68" width="1440" height="816" extended-state="1" />
+    <frame x="0" y="68" width="1440" height="816" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15785764" />
@@ -573,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="285">
+          <caret line="19" column="67" lean-forward="true" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>

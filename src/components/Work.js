@@ -10,14 +10,14 @@ class Work extends React.Component {
     <section id='Portfolio'>
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
-        <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, Bootstrap 4, jQuery, ' summary='Cryptocurrency portfolio web app. Utilizing a complex database, allows multiple users to create realtime portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
-        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, Handlebars.js, Bootstrap 4' summary='A mock web app for cryptocurrency podcasts and industry updates. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/podcast'/>
+        <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, jQuery ' summary='Cryptocurrency portfolio web app. Utilizing a complex database, allows multiple users to create realtime portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
+        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, Handlebars.js' summary='A mock web app for cryptocurrency podcasts and industry updates. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/podcast'/>
 
-        <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, Bootstrap 3, jQuery' summary='Web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
+        <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, jQuery, JavaScript' summary='Web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
         <WorkTileOut title='Chatroom App' info='Socket.IO, JavaScript, Express, Node.js, HTML5, Handlebars.js' summary='A socket io web app with designated chatrooms.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
-        <WorkTileOut title='Weather App' info='Python, PostgreSQL, Handlebars.js, Bootstrap 4' summary='Web application utilize weather api to render data for various cities.' img='/images/preview/weathapp-min.png' link='https://github.com/ahmermalik/weatherApp'/>
-        <WorkTileOut title='Gas Price App' info='Basic JavaScript, jQuery' summary='Single page static web app to calculate cost variances which produces automated recommendation of payment channel.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
+        <WorkTileOut title='Weather App' info='Python, PostgreSQL, Handlebars.js' summary='Web application utilize weather api to render data for various cities.' img='/images/preview/weathapp-min.png' link='https://github.com/ahmermalik/weatherApp'/>
+        <WorkTileOut title='Gas Price App' info='JavaScript, jQuery' summary='Single page static web app to calculate cost variances which produces automated recommendation of payment channel.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
 
             <h1 className='fw4'>Non-profit Projects</h1>
             <p className='mw7'>As a developer and a leader, it is important to share resources with individuals & organizations that'll utilize it to improve our world.</p>
