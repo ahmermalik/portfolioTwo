@@ -12,7 +12,7 @@ const Header = () =>
         <div className="dt-l w-100 border-box pa3 ph0-l pt3">
           <Link className="db dtc-l v-mid link hover-red tc tl-l mb2 mb0-l f4" to="/" title="Home">Ahmer Malik</Link>
           <div className="db dtc-l v-mid w-100 w-75-l tc tr-l">
-            <a className="link dib mr3-ns mr0 hover-red" target='blank' href='/rezsample.pdf'>Resume</a>
+            <a className="link dib mr3-ns mr0 hover-red" target='blank' href='/MalikResume.pdf'>Resume</a>
           </div>
         </div>
         </div>

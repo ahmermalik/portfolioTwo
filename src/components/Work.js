@@ -17,7 +17,7 @@ class Work extends React.Component {
         <WorkTileOut title='Chatroom App' info='Socket.IO, JavaScript, Express, Node.js, HTML5, Handlebars.js' summary='A socket io web app with designated chatrooms.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
         <WorkTileOut title='Weather App' info='Python, PostgreSQL, Handlebars.js' summary='Web application utilize weather api to render data for various cities.' img='/images/preview/weathapp-min.png' link='https://github.com/ahmermalik/weatherApp'/>
-        <WorkTileOut title='Gas Price App' info='JavaScript, jQuery' summary='Single page static web app to calculate cost variances which produces automated recommendation of payment channel.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
+        <WorkTileOut title='Gas Price App' info='HTML5, CSS3, jQuery, JavaScript' summary='Single page static web app to calculate cost variances which produces automated recommendation of payment channel.' img='/images/preview/gasprice-min.png' link='https://github.com/ahmermalik/ahmermalik.github.io'/>
 
             <h1 className='fw4'>Non-profit Projects</h1>
             <p className='mw7'>As a developer and a leader, it is important to share resources with individuals & organizations that'll utilize it to improve our world.</p>
