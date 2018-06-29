@@ -40,10 +40,10 @@ const TemplateWrapper = ({ children }) =>
       ]}
       meta={[
         { name: 'description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
-        { name: 'keywords', content: 'Full Stack Developer,Finance Software, Accountant, Fintech, Blockchain Developer, Ethereum Developer, Stock, Trading,gi Ahmer Malik, UI/UX, Back End Developer, Front End Design, User Experiences Design, Austin, Houston, Dallas, New York City, San Francisco, HTML, CSS, React, iOS, Andriod, Mobile, Web, Sketch, Prototyping, Web development, Responsive Design, User Testing, Mobile Apps, Front-end Development, Ahmer, Hammer Time, Malik, Tech' },
+        { name: 'keywords', content: 'Full Stack Developer, Finance Software, Accountant, Fintech, Blockchain Developer, Ethereum Developer, Stock, Trading, Ahmer Malik, UI/UX, Back End Developer, Front End Design, User Experiences Design, Austin, Houston, Dallas, New York City, San Francisco, HTML, CSS, React, iOS, Andriod, Mobile, Web, Prototyping, Web development, Responsive Design, Mobile Apps, Front-end Development, Ahmer, Hammer Time, Malik, Tech' },
         { name: 'og:type', content: 'profile' },
         { name: 'og:title', content: 'Ahmer Malik - Full Stack Web Developer' },
-        { name: 'og:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specializing in Mobile & Web development' },
+        { name: 'og:description', content: 'Web Developer based in Austin. Creatively resolving problems & building amazing user experiences, specializing in Mobile & Web development' },
         { name: 'og:url', content: 'https://ahmermalik.com/' },
         { name: 'og:image', content: './public/images/ahmerheadshot.png' },
         { name: 'profile:first_name', content: 'Ahmer' },
@@ -52,7 +52,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:creator', content: '@' },
         { name: 'twitter:site', content: '@' },
         { name: 'twitter:title', content: 'Ahmer Malik - Full Stack Web Developer' },
-        { name: 'twitter:description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
+        { name: 'twitter:description', content: 'Web Developer based in Austin. Creatively resolving problems & building amazing tools, specializing in Mobile & Web development' },
         { name: 'twitter:image', content: '#' },
       ]}
 
