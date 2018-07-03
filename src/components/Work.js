@@ -11,7 +11,7 @@ class Work extends React.Component {
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
         <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, jQuery ' summary='Cryptocurrency portfolio web app. Utilizing a complex database, allows multiple users to create realtime portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
-        <WorkTileOut title='Crypto Decryptd' info='JavaScript, Express, Node.js, Handlebars.js' summary='A mock web app for cryptocurrency podcasts and industry updates. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/podcast'/>
+        <WorkTileOut title='Crypto Analysis' info='Node.js, PostgreSQL, Express, ' summary=' Analyze crypto price movements utilize historic data ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/tools'/>
 
         <WorkTileOut title='Shish Kabob Cafe' info='HTML5, CSS3, jQuery, JavaScript' summary='Web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
         <WorkTileOut title='Chatroom App' info='Socket.IO, JavaScript, Express, Node.js, HTML5, Handlebars.js' summary='A socket io web app with designated chatrooms.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>

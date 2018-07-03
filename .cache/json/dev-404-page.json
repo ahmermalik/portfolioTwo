@@ -1,31 +1,11 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 12,
+            "totalCount": 5,
             "edges": [
                 {
                     "node": {
                         "path": "/404/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/CrowdScores/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Gradient/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Numilli/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/Quidco/"
                     }
                 },
                 {
@@ -35,27 +15,12 @@
                 },
                 {
                     "node": {
-                        "path": "/Suggestv/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/Thanks/"
                     }
                 },
                 {
                     "node": {
-                        "path": "/Yunojuno/"
-                    }
-                },
-                {
-                    "node": {
                         "path": "/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/page-2/"
                     }
                 },
                 {

@@ -14,46 +14,11 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---src-pages-crowd-scores-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "crowd-scores.json",
-        "path": "/CrowdScores/"
-    },
-    {
-        "componentChunkName": "component---src-pages-gradient-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "gradient.json",
-        "path": "/Gradient/"
-    },
-    {
-        "componentChunkName": "component---src-pages-numilli-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "numilli.json",
-        "path": "/Numilli/"
-    },
-    {
-        "componentChunkName": "component---src-pages-quidco-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "quidco.json",
-        "path": "/Quidco/"
-    },
-    {
         "componentChunkName": "component---src-pages-shish-kabob-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "shish-kabob.json",
         "path": "/ShishKabob/"
-    },
-    {
-        "componentChunkName": "component---src-pages-suggestv-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "suggestv.json",
-        "path": "/Suggestv/"
     },
     {
         "componentChunkName": "component---src-pages-thanks-js",
@@ -63,25 +28,11 @@
         "path": "/Thanks/"
     },
     {
-        "componentChunkName": "component---src-pages-yunojuno-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "yunojuno.json",
-        "path": "/Yunojuno/"
-    },
-    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "index.json",
         "path": "/"
-    },
-    {
-        "componentChunkName": "component---src-pages-page-2-js",
-        "layout": "index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "page-2.json",
-        "path": "/page-2/"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
