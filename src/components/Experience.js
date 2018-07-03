@@ -12,19 +12,13 @@ class Experience extends React.Component {
 <Title text='Experience'/>
     <div className='pt3 ph2'>
         <div className='dib w-half-ns w-100 v-top'>
-            <Role jobTitle='Web Developer' employer='Malik Consulting' img='images/companies/yunoJuno-icon.svg' link='https://www.ahmermalik.com'/>
+            <Role jobTitle='Web Developer' employer='Kickit' img='images/companies/yunoJuno-icon.svg' link='https://thekickitapp.com/'/>
         </div>
-
         <div className='dib w-half-ns w-100'>
             <Role jobTitle='Financial Analyst' employer='Emerson Electric' img='images/companies/Emerson.svg' link='http://www.emerson.com/en-us'/>
 
 
     </div>
-    {/*<div className='dib w-third-ns w-100'>*/}
-    {/*<Role jobTitle='Business Developer' employer='Kickit' img='images/companies/Kickit.svg' link='#'/>*/}
-            {/*"remove these quotes, add arthur lawrence for experience if you want"*/}
-    {/*</div>*/}
-
 
 </div>
     </div>
