@@ -363,63 +363,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /CrowdScores/": {
-      "path": "/CrowdScores/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
-      "componentChunkName": "component---src-pages-crowd-scores-js",
-      "layout": "index",
-      "jsonName": "crowd-scores.json",
-      "internalComponentName": "ComponentCrowdScores",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/CrowdScores.js",
-      "id": "SitePage /CrowdScores/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9a3a911f682a60bfe446f83fe65653a1",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Numilli/": {
-      "path": "/Numilli/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
-      "componentChunkName": "component---src-pages-numilli-js",
-      "layout": "index",
-      "jsonName": "numilli.json",
-      "internalComponentName": "ComponentNumilli",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Numilli.js",
-      "id": "SitePage /Numilli/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "84612bb01e4eeac0f2491494df24131a",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Quidco/": {
-      "path": "/Quidco/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
-      "componentChunkName": "component---src-pages-quidco-js",
-      "layout": "index",
-      "jsonName": "quidco.json",
-      "internalComponentName": "ComponentQuidco",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Quidco.js",
-      "id": "SitePage /Quidco/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "72da24593da7b6b201bafc07fd4420db",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /ShishKabob/": {
       "path": "/ShishKabob/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/ShishKabob.js",
@@ -436,25 +379,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "82dc9d60e530165ff0d6a05f0494b2bf",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Suggestv/": {
-      "path": "/Suggestv/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Suggestv.js",
-      "componentChunkName": "component---src-pages-suggestv-js",
-      "layout": "index",
-      "jsonName": "suggestv.json",
-      "internalComponentName": "ComponentSuggestv",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Suggestv.js",
-      "id": "SitePage /Suggestv/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c9c36f0c615ee0dba4183b718ba74525",
         "owner": "internal-data-bridge"
       }
     },
@@ -477,25 +401,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /Yunojuno/": {
-      "path": "/Yunojuno/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "componentChunkName": "component---src-pages-yunojuno-js",
-      "layout": "index",
-      "jsonName": "yunojuno.json",
-      "internalComponentName": "ComponentYunojuno",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/Yunojuno.js",
-      "id": "SitePage /Yunojuno/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "69a4cb0fe5c5befb06ce392257c36094",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /": {
       "path": "/",
       "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/index.js",
@@ -512,25 +417,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "de36d30692b2ade92395220dd9cd879f",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "path": "/page-2/",
-      "component": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "context": {},
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "componentPath": "/Users/ahmermalik/Desktop/WebDevelopment/1A.Portfolio/1F Portfolio Sixth Iteration/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "882bc0aa9eab5c7bf5736b2104fccff8",
         "owner": "internal-data-bridge"
       }
     },
