@@ -14,10 +14,8 @@ const IndexPage = () =>
       <Skills/>
       <Work/>
       <Experience/>
-
       <Contact/>
       <Footer/>
-
     </div>
 
 export default IndexPage
