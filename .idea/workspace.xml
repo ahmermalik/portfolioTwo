@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd0e6482-a86c-466c-b92c-5c87c945df32" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/redux-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/redux-state.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/companies/agro-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/companies/crowdscores-icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Experience.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Work.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Work.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +20,8 @@
       <file leaf-file-name="Work.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Work.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="226" selection-start-line="25" selection-start-column="226" selection-end-line="25" selection-end-column="226" />
+            <state relative-caret-position="360">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -116,8 +112,8 @@
         <option value="$PROJECT_DIR$/src/pages/CrowdScores.js" />
         <option value="$PROJECT_DIR$/src/pages/page-2.js" />
         <option value="$PROJECT_DIR$/src/components/Info.js" />
-        <option value="$PROJECT_DIR$/src/components/Work.js" />
         <option value="$PROJECT_DIR$/src/components/Experience.js" />
+        <option value="$PROJECT_DIR$/src/components/Work.js" />
       </list>
     </option>
   </component>
@@ -338,18 +334,18 @@
       <workItem from="1530066590683" duration="782000" />
       <workItem from="1530232175796" duration="3650000" />
       <workItem from="1530294131143" duration="241000" />
-      <workItem from="1530647895466" duration="3134000" />
+      <workItem from="1530647895466" duration="3998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80068000" />
+    <option name="totallyTimeSpent" value="80932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="42" width="1425" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2514245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2514245" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
@@ -357,7 +353,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2521127" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2521127" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="SFDX" order="8" />
@@ -685,8 +681,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Work.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="226" selection-start-line="25" selection-start-column="226" selection-end-line="25" selection-end-column="226" />
+        <state relative-caret-position="360">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
