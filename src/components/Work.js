@@ -11,9 +11,9 @@ class Work extends React.Component {
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
         <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, jQuery ' summary='Crypto currency portfolio web app. Utilizing a complex database, allows multiple users to create real time portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
-        <WorkTileOut title='Crypto Analysis' info='Node.js, PostgreSQL, Express ' summary=' Analyze price volatility utilizing historic data. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/tools'/>
+        <WorkTileOut title='Crypto Analysis' info='Node.js, PostgreSQL, Express ' summary='Back end application to analyze price volatility utilizing historic data. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/tools'/>
 
-        <WorkTileOut title='Shish Kabob Cafe' info='JavaScript, Google Analytics, HTML5, CSS3, jQuery' summary='Responsive, mobile friendly web app for a local restaurant.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
+        <WorkTileOut title='Shish Kabob Cafe' info='JavaScript, Google Analytics, HTML5, CSS3, jQuery' summary='Created a responsive, mobile friendly web app for a local restaurant, and setup delivery system.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
         <WorkTileOut title='Chatroom App' info='Socket.IO, JavaScript, Express, Node.js, HTML5, Handlebars.js' summary='Socket.IO web app with designated chat rooms.' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/chatroomApp'/>
 
         <WorkTileOut title='Weather App' info='Python, PostgreSQL, Jinja2' summary='Web application utilize weather api to render data for various cities.' img='/images/preview/weathapp-min.png' link='https://github.com/ahmermalik/weatherApp'/>
