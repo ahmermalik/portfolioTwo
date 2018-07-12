@@ -17,8 +17,6 @@ class Skills extends React.Component {
                 <h2 className='fw4 mt1 f3 mb2'>Front End</h2>
                         <div className='w-100 pv2 '>
                         <img className='container ph3 grow' src={"images/companies/react.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/HTML5.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/css3.svg"} />
                         <img className='container ph3 grow' src={"images/companies/js.svg"} />
                         <img className='container ph3 grow' src={"images/companies/bootstrap.svg"} />
                         </div>
@@ -34,7 +32,6 @@ class Skills extends React.Component {
                     <h2 className='fw4 mt1 f3 mb2'>Tools</h2>
                     <div className='w-100 pv2'>
                         <img className='container ph3 grow' src={"images/companies/webstorm.svg"} />
-                        <img className='container ph3 grow' src={"images/companies/pycharm.svg"} />
                         <img className='container ph3 grow' src={"images/companies/slack.svg"} />
                         <img className='container ph3 grow' src={"images/companies/aws.svg"} />
                         <img className='container ph3 grow' src={"images/companies/google.svg"} />
