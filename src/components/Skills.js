@@ -24,7 +24,6 @@ class Skills extends React.Component {
                     <h2 className='fw4 mt1 f3 mb2'>Back End</h2>
                         <div className='w-100 pv2 '>
                             <img className='container ph3 grow' src={"images/companies/nodejs.svg"} />
-                            <img className='container ph3 grow' src={"images/companies/Express.svg"} />
                             <img className='container ph3 grow' src={"images/companies/python.svg"} />
                             <img className='container ph3 grow' src={"images/companies/csharp.svg"} />
                             <img className='container ph3 grow' src={"images/companies/postgresql.svg"} />

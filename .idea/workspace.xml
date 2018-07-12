@@ -41,8 +41,8 @@
       <file leaf-file-name="Skills.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Skills.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+            <state relative-caret-position="247">
+              <caret line="25" column="102" selection-start-line="25" selection-start-column="102" selection-end-line="25" selection-end-column="102" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -377,12 +377,12 @@
       <workItem from="1530998313950" duration="81000" />
       <workItem from="1530998801260" duration="425000" />
       <workItem from="1531360511617" duration="234000" />
-      <workItem from="1531372702813" duration="402000" />
+      <workItem from="1531372702813" duration="435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86916000" />
+    <option name="totallyTimeSpent" value="86949000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="25" width="1429" height="807" extended-state="0" />
@@ -679,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Skills.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+        <state relative-caret-position="247">
+          <caret line="25" column="102" selection-start-line="25" selection-start-column="102" selection-end-line="25" selection-end-column="102" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
