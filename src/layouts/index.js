@@ -42,10 +42,10 @@ const TemplateWrapper = ({ children }) =>
         { name: 'description', content: 'Web Developer based in Austin/Houston. Creatively resolving problems & building amazing user experiences, specialising in Mobile & Web development' },
         { name: 'keywords', content: 'Full Stack Developer, Finance Software, Accountant, Fintech, Blockchain Developer, Ethereum Developer, Stock, Trading, Ahmer Malik, UI/UX, Back End Developer, Front End Design, User Experiences Design, Austin, Houston, Dallas, New York City, San Francisco, HTML, CSS, React, iOS, Andriod, Mobile, Web, Prototyping, Web development, Responsive Design, Mobile Apps, Front-end Development, Ahmer, Hammer Time, Malik, Tech' },
         { name: 'og:type', content: 'profile' },
-        { name: 'og:title', content: 'Ahmer Malik - Full Stack Web Developer' },
+        { name: 'og:title', content: 'Ahmer Malik - Full Stack Developer in Austin, TX' },
         { name: 'og:description', content: 'Web Developer based in Austin. Creatively resolving problems & building amazing user experiences, specializing in Mobile & Web development' },
         { name: 'og:url', content: 'https://ahmermalik.com/' },
-        { name: 'og:image', content: './public/images/ahmerheadshot.png' },
+        { name: 'og:image', content: 'https://www.ahmermalik.com/images/preview.png' },
         { name: 'profile:first_name', content: 'Ahmer' },
         { name: 'profile:last_name', content: 'Malik' },
         { name: 'twitter:card', content: 'summary_large_image' },
@@ -53,7 +53,7 @@ const TemplateWrapper = ({ children }) =>
         { name: 'twitter:site', content: '@' },
         { name: 'twitter:title', content: 'Ahmer Malik - Full Stack Web Developer' },
         { name: 'twitter:description', content: 'Web Developer based in Austin. Creatively resolving problems & building amazing tools, specializing in Mobile & Web development' },
-        { name: 'twitter:image', content: '#' },
+        { name: 'twitter:image', content: 'https://www.ahmermalik.com/images/preview.png' },
       ]}
 
     />
