@@ -23,6 +23,3 @@ AboutTile.propTypes = {
 };
 
 export default AboutTile
-
-
-

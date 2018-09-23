@@ -11,6 +11,9 @@ class Experience extends React.Component {
 <div className="mw8 db-ns dn center ph2 mt4">
 <Title text='Experience'/>
     <div className='pt3 ph2'>
+    <div className='dib w-half-ns w-100 v-top'>
+            <Role jobTitle='Software Engineer' employer='E9 Labs' img='images/companies/e9lab.png' link='http://e9hq.com/'/>
+        </div>
         <div className='dib w-half-ns w-100 v-top'>
             <Role jobTitle='Web Developer' employer='Kickit' img='images/companies/yunoJuno-icon.svg' link='https://thekickitapp.com/'/>
         </div>
