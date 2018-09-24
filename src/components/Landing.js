@@ -12,8 +12,8 @@ class Landing extends React.Component {
           <h2 className='fw3' style={{lineHeight: '1.6'}}>
           I'm a Full Stack Web Developer living in Texas. I previously worked for
           <a className='link hover-red' target='blank' href='http://www.e9hq.com'> E9 Labs </a>
-            where I built applications in React and Node.js and
-          <a className='link hover-red' target='blank' href='http://www.emerson.com/en-us'> Emerson Electric</a>.
+            where I built applications in React and Node.js.
+         
           </h2>
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
           <Social/>
