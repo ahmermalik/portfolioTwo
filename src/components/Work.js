@@ -11,7 +11,7 @@ class Work extends React.Component {
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
         
-        <WorkTileOut title='Nano Tracker' info='React, Node.js, PostgreSQL, Express ' summary='Full stack app utilizing React to render public wallet address interface and Node.js to create, delete, and update balances. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/tools'/>
+        <WorkTileOut title='Nano Tracker' info='React, Node.js, PostgreSQL, Express ' summary='Full stack app utilizing React to render public wallet address interface and Node.js to create, delete, and update balances. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/nanoTrackerReact'/>
         <WorkTileOut title='Cryptotistics' info='Python, Tornado, JavaScript, PostgreSQL, OAuth, jQuery ' summary='Crypto currency portfolio web app. Utilizing a complex database, allows multiple users to create real time portfolios.' img='images/preview/cryptotistics.png' link='https://github.com/ahmermalik/cryptoCurrencyApp'/>
 
         <WorkTileOut title='Shish Kabob Cafe' info='JavaScript, Google Analytics, jQuery' summary='Created a responsive, mobile friendly web app for a local restaurant, and setup delivery system.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
