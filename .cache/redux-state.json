@@ -334,12 +334,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-23T23:37:27.800Z",
+      "buildTime": "2019-01-02T02:41:43.699Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "eb19a66c35261cc43c7fffd243a83c70",
+        "contentDigest": "6c0538b218de8be179d0e24b1f2d7c50",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

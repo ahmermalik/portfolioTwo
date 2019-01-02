@@ -26,7 +26,7 @@ class Landing extends React.Component {
 <div className='mw8 db center mt5-ns mt3 mb5 overflow-auto ph0-ns ph2'>
 <article className='w-50-ns w-100 dib-ns db ph0-ns ph2'>
 <h3 className='fw4'>About</h3>
-<p className='measure secondary-text'> While working in a data-driven environment, I discovered my passion for building tools for data analysis which led me to coding.
+<p className='measure secondary-text'> While working in a data-driven environment, I discovered my passion for building tools for analysis which led me to coding.
     Through the use of online resources such as Stack Overflow, GitHub, and Meetup, I found myself attending Digital Craft's coding bootcamp and became a Developer.
 </p>
 </article>
