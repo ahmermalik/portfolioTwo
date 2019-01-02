@@ -12,7 +12,7 @@ class Work extends React.Component {
         <Title text='Portfolio'/>
 
         <WorkTileOut title='Chatroom App' info='React, Node.js, Socket.IO, Twilio, MongoDB, Express, Material UI' summary='A mobile first, responsive full stack web app Socket.IO application for web communication made for a local HVAC business.' img='/images/preview/chatapp2.png' link='https://github.com/ahmermalik/chatApp'/>
-        <WorkTileOut title='HERC Wallet Scanner' info='React, IPFS, Metamask' summary='Front end web app to monitor token balances.' img='/images/preview/hercapp.png' link='https://github.com/ahmermalik/addHERCdapp'/>
+        <WorkTileOut title='HERC Wallet Scanner' info='React, IPFS, Metamask' summary='Front end web app to monitor token balances utilizing Etherscan API.' img='/images/preview/hercapp.png' link='https://github.com/ahmermalik/addHERCdapp'/>
 
         <WorkTileOut title='Nano Tracker' info='React, Node.js, PostgreSQL, Express' summary='Full stack app utilizing React to render public wallet address interface and Node.js to create, delete, and update balances. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/nanoTrackerReact'/>
 
