@@ -11,7 +11,9 @@ class Work extends React.Component {
         <div className='mw8 mt5 center db ph0-ns ph2'>
         <Title text='Portfolio'/>
 
-        <WorkTileOut title='Chatroom App' info='React, Node.js, Socket.IO, Twilio, MongoDB, Express, Material UI' summary='A mobile first, responsive full stack web app Socket.IO application for web communication' img='/images/preview/chatapp2.png' link='https://github.com/ahmermalik/chatroomApp'/>
+        <WorkTileOut title='Chatroom App' info='React, Node.js, Socket.IO, Twilio, MongoDB, Express, Material UI' summary='A mobile first, responsive full stack web app Socket.IO application for web communication made for a local HVAC business.' img='/images/preview/chatapp2.png' link='https://github.com/ahmermalik/chatApp'/>
+        <WorkTileOut title='HERC Wallet Scanner' info='React, Solidity, PostgreSQL, Express, Metamask' summary='F ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/ipfs_eth'/>
+
         <WorkTileOut title='Nano Tracker' info='React, Node.js, PostgreSQL, Express' summary='Full stack app utilizing React to render public wallet address interface and Node.js to create, delete, and update balances. ' img='/images/preview/comingsoon.png' link='https://github.com/ahmermalik/nanoTrackerReact'/>
 
         <WorkTileOut title='Shish Kabob Cafe' info='JavaScript, Google Analytics, jQuery' summary='A mobile first, responsive web application for a local restaurant, and setup delivery system.' img='/images/preview/shishkabob-min.png' link='https://github.com/ahmermalik/kabobCafe'/>
