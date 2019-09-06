@@ -12,7 +12,7 @@ class Landing extends React.Component {
           <h2 className='fw3' style={{lineHeight: '1.6'}}>
           I'm a Full Stack Web Developer living in Texas. I currently work for
           <a className='link hover-red' target='blank' href='https://www.coxautoinc.com/'> Cox Autmotive Inc. </a>
-            where I build applications in React.
+            where I'm currently developing products surrounding API as a service.
          
           </h2>
           <a className="f6 grow no-underline ph4 pv3 mt4 dib bg-black white mt5 shadow-4" style={{borderRadius:'6px'}} href="#form">Get in touch</a>
