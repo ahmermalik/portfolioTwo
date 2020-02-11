@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ahmermalik.com
+Token: c17bb29aa75103f93922594c868e4e726a562fed2af0033fc8cd0b808efe1a8b
